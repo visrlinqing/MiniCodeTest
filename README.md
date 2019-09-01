@@ -14,6 +14,7 @@ Input: arr[] = {2, 3}
 Output: ad ae af bd be bf cd ce cf
 Input: arr[] = {9}
 Output: w x y z
+
 #Stage 2 - new requirements
 The program need to support converting the digits from 0 to 99 into letters
 
